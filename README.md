@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikram Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate blockchain developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram-307&label=Profile%20views&color=0e75b6&style=flat" alt="vikram-307" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React ⚛**
 
-- 📫 How to reach me **vikramsingh1410.2002@gmail.com**
+- 📫 Reach me at: **vikramsingh1410.2002@gmail.com**
 
-- ⚡ Fun fact **We can talk about blockchain all day long**
+- ⚡ Fun fact: **We can talk about blockchain all day long**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
